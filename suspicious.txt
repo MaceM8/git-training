@@ -4,3 +4,8 @@ And what about a poem? Lets add it in another commit.
 
 His palms are sweaty
 Knees weak, arms are heavy
+The unit tests are failing already
+Code spaghetti
+
+He`s nervous, 
+But at his laptop he looks calm and ready
