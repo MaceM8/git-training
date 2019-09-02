@@ -9,3 +9,5 @@ Code spaghetti
 
 He`s nervous, 
 But at his laptop he looks calm and ready
+To squash bugs
+Bu he keeps on forgetting
